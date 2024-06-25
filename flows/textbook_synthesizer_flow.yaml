@@ -1,4 +1,4 @@
 default_model:
   model: ollama/llama3
   api_base: https://raphaelfrancis.com/ollama
-  auth_token: SmartMintTurkey:a0be84df17fb58cb0b9d5372e4a2a7c5613ef48a4aa0cf0d9503b96e88ea21120440fed3d297a993be995f11d8be2882357da298900b559b664185d9
+  auth_token: 
